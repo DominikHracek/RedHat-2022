@@ -66,17 +66,21 @@ elif [[ $kategorie_prevodu == 2 ]]; then
   echo "Centimetr= 3"
   echo "Milimetr=  4"
   read kategorie_delka_z
+  echo "Určete množství"
   if [[ $kategorie_delka_z == 1 ]]; then
     echo "Napište na co chcete převádět"
     echo "Kilometr=  1"
     echo "Metr=      2"
     echo "Centimetr= 3"
     echo "Milimetr=  4"
-    read kategorie_delka_na
-    if [[ $kategorie_delka_na == 1 ]]; then
+    read kategorie_delka_z_kilometr
+    if [[ $kategorie_delka_z_kilometr == 1 ]]; then
       echo "Ať napíšete co napíšete bude se to rovnat"
-    elif [[ $kategorie_delka_na == 2]]; then
-      echo $((kategorie_delka_na))
+    elif [[ $kategorie_delka_z_kilometr == 2]]; then
+      echo "Určete množství"
+      read kategorie_delka_na_kilometr
+
+
     fi
   fi
 fi
