@@ -1,10 +1,8 @@
 #!/bin/bash
 
-if [[ -f "balicky.txt" ]]
-then
+if [[ -f "balicky.txt" ]]; then
     rm balicky.txt
-elif [[ -f "praxe.txt" ]]
-then
+elif [[ -f "praxe.txt" ]]; then
     rm praxe.txt
 fi
 dnf info Viber >> balicky.txt
