@@ -22,3 +22,17 @@
 ./praxe.txt
 ./dnf.sh
 ./balicky.txt
+.
+./prevodnik_jednotek.sh
+./priklad-1.sh
+./praxe.txt
+./dnf.sh
+./dnf-2.sh
+./postfix.txt
+./funkce2.sh
+./funkce2.txt
+./Faktorial.sh
+./Datum_a_cas.sh
+./cron_vypis.txt
+./crontab_test.sh
+./balicky.txt

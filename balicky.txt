@@ -1,78 +1,9 @@
-Poslední kontrola metadat: před 1:57:42, Čt 19. května 2022, 03:34:25.
-Nainstalované balíčky:
-Název        : viber
-Verze        : 16.1.0.37
-Vydání       : 2
-Architektura : x86_64
-Velikost     : 358 M
-Zdroj        : viber-16.1.0.37-2.src.rpm
-Repozitář    : @System
-Souhrn       : Viber for Desktop.
-Licence      : see /usr/share/doc/viber/copyright
-Popis        : Free and secure calls and messages to anyone, anywhere, on any device and network, in any country!
-             : Viber for Desktop syncs your contacts, messages and call history with your mobile device.
-             : 
-             : 
-             : (Converted from a deb package by alien version 8.95.)
-
-Poslední kontrola metadat: před 1:57:43, Čt 19. května 2022, 03:34:25.
-Nainstalované balíčky:
-Název        : git
-Verze        : 2.35.3
-Vydání       : 1.fc35
-Architektura : x86_64
-Velikost     : 132 k
-Zdroj        : git-2.35.3-1.fc35.src.rpm
-Repozitář    : @System
-Z repozitáře : updates
-Souhrn       : Fast Version Control System
-URL          : https://git-scm.com/
-Licence      : GPLv2
-Popis        : Git is a fast, scalable, distributed revision control system with an
-             : unusually rich command set that provides both high-level operations
-             : and full access to internals.
-             : 
-             : The git rpm installs common set of tools which are usually using with
-             : small amount of dependencies. To install all git packages, including
-             : tools for integrating with other SCMs, install the git-all meta-package.
-
-Poslední kontrola metadat: před 1:57:45, Čt 19. května 2022, 03:34:25.
-Nainstalované balíčky:
-Název        : vim-enhanced
-Období       : 2
-Verze        : 8.2.4927
-Vydání       : 1.fc35
-Architektura : x86_64
-Velikost     : 4.3 M
-Zdroj        : vim-8.2.4927-1.fc35.src.rpm
-Repozitář    : @System
-Z repozitáře : updates
-Souhrn       : A version of the VIM editor which includes recent enhancements
-URL          : http://www.vim.org/
-Licence      : Vim and MIT
-Popis        : VIM (VIsual editor iMproved) is an updated and improved version of the
-             : vi editor.  Vi was the first real screen-based editor for UNIX, and is
-             : still very popular.  VIM improves on vi by adding new features:
-             : multiple windows, multi-level undo, block highlighting and more.  The
-             : vim-enhanced package contains a version of VIM with extra, recently
-             : introduced features like Python and Perl interpreters.
-             : 
-             : Install the vim-enhanced package if you'd like to use a version of the
-             : VIM editor which includes recently added enhancements like
-             : interpreters for the Python and Perl scripting languages.  You'll also
-             : need to install the vim-common package.
-
-Poslední kontrola metadat: před 1:57:46, Čt 19. května 2022, 03:34:25.
-Dostupné balíčky:
-Název        : pycharm-community-doc
-Verze        : 2022.1.1
-Vydání       : 1.fc35
-Architektura : noarch
-Velikost     : 285 k
-Zdroj        : pycharm-community-2022.1.1-1.fc35.src.rpm
-Repozitář    : copr:copr.fedorainfracloud.org:phracek:PyCharm
-Souhrn       : Documentation for intelligent Python IDE
-URL          : https://www.jetbrains.com/pycharm/
-Licence      : ASL 2.0
-Popis        : This package contains documentation for the Intelligent Python IDE.
-
+Fedora 35 - x86_64 - Updates                     20 kB/s |  11 kB     00:00    
+Fedora 35 - x86_64 - Updates                    1.5 MB/s | 4.1 MB     00:02    
+Fedora Modular 35 - x86_64 - Updates             37 kB/s |  18 kB     00:00    
+Copr repo for PyCharm owned by phracek          9.9 kB/s | 3.6 kB     00:00    
+TeamViewer - x86_64                             5.8 kB/s | 867  B     00:00    
+TeamViewer - x86_64                             7.6 kB/s | 867  B     00:00    
+TeamViewer - x86_64                              39 kB/s | 3.1 kB     00:00    
+Is this ok [y/N]: TeamViewer - x86_64                             9.8 kB/s | 867  B     00:00    
+Last metadata expiration check: 0:00:02 ago on Mon 23 May 2022 08:09:06 AM EDT.
